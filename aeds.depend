@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1728776837 source:c:\users\igust\desktop\aeds\arvore_binaria.c
+	"arvore_binaria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728776862 c:\users\igust\desktop\aeds\arvore_binaria.h
+	<stdio.h>
+
+1728776796 source:c:\users\igust\desktop\aeds\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728776812 c:\users\igust\desktop\aeds\lista.h
+
+1728776768 source:c:\users\igust\desktop\aeds\main.c
+	"arvore_binaria.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
